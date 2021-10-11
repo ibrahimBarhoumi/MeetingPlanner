@@ -1,0 +1,36 @@
+# IDEA Intellij File
+.idea/
+*.iml*
+
+# .gitignore
+
+# Maven files
+target/
+
+# Git merge file
+*.orig
+
+######################
+# Eclipse
+######################
+*.pydevproject
+.project
+.metadata
+/bin/**
+/tmp/**
+/tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/**
+.loadpath
+/src/main/resources/rebel.xml
+.factorypath
+.springBeans
+
+LOG_PATH_IS_UNDEFINED/
+*.prefs
+.vscode/launch.json
